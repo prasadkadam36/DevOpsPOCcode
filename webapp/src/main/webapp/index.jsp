@@ -7,8 +7,8 @@
 <title>Registration Form</title>
 </head>
 <body>
-<h1>Banking Application Form</h1>
-<form action="guru_register" method="post">
+<h1>PLI Application Form</h1>
+<form action="register" method="post">
 			<table style="with: 50%">
 				<tr>
 					<td>First Name</td>
